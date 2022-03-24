@@ -1,0 +1,10 @@
+v2
+
+done: 
+	- v1
+	- no solution
+	- does not search past borders
+
+not done: 
+	- refactored
+	- object-oriented
