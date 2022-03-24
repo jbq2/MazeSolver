@@ -153,9 +153,7 @@ public class MazeSolver {
         }
         catch (Exception e){
             printMaze(maze);
-            System.out.println("no solution.");
         }
         printMaze(maze);
-        System.out.println("solution found.");
     }
 }
