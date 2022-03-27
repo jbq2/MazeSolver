@@ -7,3 +7,4 @@ The following lines are the actual maze:
   - \- is the destination
   - \+ (in the solved maze) is the correct path
   - . (in the solved maze) are deadend paths
+  - .dat files are the test mazes for the solver
